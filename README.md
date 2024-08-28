@@ -37,7 +37,7 @@
 
 ### Clone the repository
 ```bash
-git clone https://github.com/yourusername/wink-to-scroll.git
+git clone https://github.com/LokeshS1411/wink-to-scroll.git
 cd wink-to-scroll
 ```
 ## Running the Project
